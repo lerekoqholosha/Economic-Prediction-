@@ -1,7 +1,7 @@
 # Economic-Prediction-
 
 
-`Economic-Prediction`
+`Economic-Prediction`:
 Predicting Economic well being
 
 . For this competition
